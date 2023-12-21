@@ -107,4 +107,13 @@ p {
   .heading {
     font-size: 20px;
   }
+
+  .contact-heading {
+    font-size: 35px;
+  }
+
+  .email-link {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
 }
